@@ -1,0 +1,1 @@
+/home/mrajaa/Downloads/git/the-one-theme/zsh/TheOne.zsh-theme
